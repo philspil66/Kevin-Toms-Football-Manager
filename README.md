@@ -30,6 +30,6 @@ The game was nominated in the 1983 Golden Joystick Awards for best strategy game
 
 By 1991, when reviewing the £2.99 budget release, Amiga Power awarded a score of only 19% as the game had been "out-featured by practically every other game in the genre" but was "still massively addictive" and referred to as a "classic" and "one of the legends of computer gaming". The ZX Spectrum version was voted the 26th best game of all time in a special issue of Your Sinclair magazine in 2004.
 
-## Sources
+## Source Code
 
 In this repo I've added the source code to the original BASIC 1982 Version for the ZX81.
