@@ -2,6 +2,8 @@
 
 Football Manager was the first game in the Football Manager series.
 
+![kevmonitors](https://user-images.githubusercontent.com/14840708/139450605-06502aa3-1144-4945-bc96-0f7082456a3f.jpg)
+
 ## Development and release
 
 Kevin Toms developed the first game on a Video Genie, a clone of the Tandy TRS-80. This was a text only game. It was converted to the Sinclair ZX80 and ZX81, and Toms created the software label Addictive Games to launch the game in 1982. It was then ported to the ZX Spectrum with added animated graphics showing match highlights.
